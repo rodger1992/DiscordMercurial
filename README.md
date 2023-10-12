@@ -27,7 +27,7 @@ File Stealer
 Search User PC for Passwords, 2Fa codes, tokens, wallets...
 Browsers: Opera, Chrome, Brave, Yandex, Edge
 
-PRICE: $40
+PRICE: $30
 BUY: @discordmircurial
 
 
